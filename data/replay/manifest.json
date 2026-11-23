@@ -1,0 +1,140 @@
+{
+  "2024-01-01": {
+    "rows": 213945,
+    "seconds": 1200,
+    "sha256_csv": "f16547a2bd49f29723e75ac73b44e1aca81c7923afd0b174dab32c401c821453",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/01/01/OPTIONS.csv.gz"
+  },
+  "2024-02-01": {
+    "rows": 130450,
+    "seconds": 1200,
+    "sha256_csv": "b5cc676442b01265f0f7cb4b17942ea21db405d4b4659cb3096d0216e4708f74",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/02/01/OPTIONS.csv.gz"
+  },
+  "2024-03-01": {
+    "rows": 240197,
+    "seconds": 1200,
+    "sha256_csv": "81e7ccca89018f875f10201b9b4b2a3e60ccfebe81e6139c596f9189c06739c6",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/03/01/OPTIONS.csv.gz"
+  },
+  "2024-04-01": {
+    "rows": 206469,
+    "seconds": 1200,
+    "sha256_csv": "8b80bd0d4b96ac3ea807fce3229ed76f0f54b35abcb85784a04b4d810f422b55",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/04/01/OPTIONS.csv.gz"
+  },
+  "2024-05-01": {
+    "rows": 265139,
+    "seconds": 1200,
+    "sha256_csv": "fdf3b9da67104814b564f8764bac17de830701111a53a89b30ef3d390eab1a75",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/05/01/OPTIONS.csv.gz"
+  },
+  "2024-06-01": {
+    "rows": 80625,
+    "seconds": 1200,
+    "sha256_csv": "4d398f4e937f33d551e3880f406185917c4a4b000b3cedc1a93a3c9cfbb7fa2a",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/06/01/OPTIONS.csv.gz"
+  },
+  "2024-07-01": {
+    "rows": 246504,
+    "seconds": 1200,
+    "sha256_csv": "d6e57683d20851d8f347854727114c864093c380f6bbcb9a3e7cd6c50b048382",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/07/01/OPTIONS.csv.gz"
+  },
+  "2024-08-01": {
+    "rows": 377253,
+    "seconds": 1200,
+    "sha256_csv": "573b0190327e4d6400e2c273a23a2149ef2f5727435d03552a5ef0adc69a81ea",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/08/01/OPTIONS.csv.gz"
+  },
+  "2024-09-01": {
+    "rows": 82071,
+    "seconds": 1200,
+    "sha256_csv": "e4f441359958a6d86913480e5d2167b49b56b16354a48d98e5c591708e454ba1",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/09/01/OPTIONS.csv.gz"
+  },
+  "2024-10-01": {
+    "rows": 408273,
+    "seconds": 1200,
+    "sha256_csv": "02219ba40d494a42c5f5628d1684560356842a5ce217503aaae33865ec158ca8",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/10/01/OPTIONS.csv.gz"
+  },
+  "2024-11-01": {
+    "rows": 234471,
+    "seconds": 1200,
+    "sha256_csv": "08160102b7500dca4d5a27979173f29347f909272e448bc89fbfd51c5d042914",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/11/01/OPTIONS.csv.gz"
+  },
+  "2024-12-01": {
+    "rows": 90862,
+    "seconds": 1200,
+    "sha256_csv": "5f5bd3bf5b9ef4d8dfc1fcea2b915f480d2cd90d006c448ee60e41dd378131d4",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2024/12/01/OPTIONS.csv.gz"
+  },
+  "2025-01-01": {
+    "rows": 143189,
+    "seconds": 1200,
+    "sha256_csv": "a56046decbc2765d65731e9c6885acd76d59f65e2b3c2a0421542f3800479ddb",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/01/01/OPTIONS.csv.gz"
+  },
+  "2025-02-01": {
+    "rows": 130365,
+    "seconds": 1200,
+    "sha256_csv": "d33260429dd0f43f717e9af756b72441f61d365d99c54b6e4046af3defc0b188",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/02/01/OPTIONS.csv.gz"
+  },
+  "2025-03-01": {
+    "rows": 94323,
+    "seconds": 1200,
+    "sha256_csv": "5803b8e719054d97f3fbcaceca773a6ff56a6995dc3c172f3a7e79f9cdd36a5a",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/03/01/OPTIONS.csv.gz"
+  },
+  "2025-04-01": {
+    "rows": 200113,
+    "seconds": 1200,
+    "sha256_csv": "eb0605bdf66c56c96a2a38b9a7255e6de0e7be071bdcee8540f3649c6ddc5521",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/04/01/OPTIONS.csv.gz"
+  },
+  "2025-05-01": {
+    "rows": 125115,
+    "seconds": 1200,
+    "sha256_csv": "9ede6f8c00772a0cfd3142ce3bb43c9f19479a3ade928810d2289dfe87287268",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/05/01/OPTIONS.csv.gz"
+  },
+  "2025-06-01": {
+    "rows": 114816,
+    "seconds": 1200,
+    "sha256_csv": "583499a007e6b6e3967abce77efe03c8af4f3ddf0ae64ce69af745797d752c0f",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/06/01/OPTIONS.csv.gz"
+  },
+  "2025-07-01": {
+    "rows": 227427,
+    "seconds": 1200,
+    "sha256_csv": "47aadbd2935a55b5566aa7ce4ee4753dc7f2a0e15c5c97d07745e01aae78abf0",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/07/01/OPTIONS.csv.gz"
+  },
+  "2025-08-01": {
+    "rows": 357706,
+    "seconds": 1200,
+    "sha256_csv": "552a54b76d03606d14305e34336eb2fce0551e3592e7daeac8506f8b6115ce6f",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/08/01/OPTIONS.csv.gz"
+  },
+  "2025-09-01": {
+    "rows": 184512,
+    "seconds": 1200,
+    "sha256_csv": "f9fb2df783eef36f944f2029ff7c549417e4c8356d847a7b12a9a0f93d2fd606",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/09/01/OPTIONS.csv.gz"
+  },
+  "2025-10-01": {
+    "rows": 134624,
+    "seconds": 1200,
+    "sha256_csv": "341b7a261fcdbc4edad9539c8c8a108c1133190132c67bc8a4db69065078a5d9",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/10/01/OPTIONS.csv.gz"
+  },
+  "2025-11-01": {
+    "rows": 83867,
+    "seconds": 1200,
+    "sha256_csv": "3ef1e7d7a69d74524dcfbb8f1459739939e95f3f518f4ac18800089b5c753780",
+    "url": "https://datasets.tardis.dev/v1/deribit/book_snapshot_5/2025/11/01/OPTIONS.csv.gz"
+  }
+}

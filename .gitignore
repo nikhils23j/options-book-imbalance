@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/live-*.jsonl
+results/live-*.json
+docs/img/live/
+data/replay/*.csv.gz
+data/replay/*.part
+results/replay/decisions*.csv.gz
